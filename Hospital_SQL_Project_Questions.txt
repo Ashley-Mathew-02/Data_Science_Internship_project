@@ -1,0 +1,18 @@
+Hospital Management SQL Case Study - Analysis Questions
+============================================================
+
+1. What is the total number of patients and doctors?
+2. Which patient had the most appointments?
+3. Which doctor had the most appointments?
+4. What is the gender distribution among patients?
+5. How many appointments are scheduled per doctor?
+6. What is the total revenue generated from all treatments?
+7. Which treatment is most commonly given to patients?
+8. What is the average billing amount per patient?
+9. Which department has the most number of doctors?
+10. How many patients were treated in each department?
+11. What is the monthly trend of appointments?
+12. Which day of the week has the most appointments?
+13. What are the top 5 most expensive treatments?
+14. What is the gender distribution of patients?
+15. Find the doctor with the highest average billing per patient.
